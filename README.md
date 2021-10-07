@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/rahimov27/rahimov27/blob/main/ezgif.com-optimize.gif" width="550" height="280" />
+<img align="right" alt="GIF" src="https://github.com/rahimov27/rahimov27/blob/main/full-stack-development.gif" width="550" height="280" />
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rahimov27&show_icons=true&theme=merko" width="49.5%"/>
