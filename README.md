@@ -23,5 +23,5 @@ Datebase :
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShairbekovBakyt&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShairbekovBakyt&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
