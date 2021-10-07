@@ -4,7 +4,7 @@
 
 
 # Languages and Tools
-[![Python](https://img.shields.io/badge/-Python-090909??style=plastic&logo=python)](https://www.python.org/) width="29.5%"
+[![Python](https://img.shields.io/badge/-Python-090909??style=plastic&logo=python)](https://www.python.org/) 
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 [![Linux](https://img.shields.io/badge/-Linux-090909??style=plastic&logo=linux)](https://ru.wikipedia.org/wiki/Linux)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909??style=plastic&logo=javascript)](https://ru.wikipedia.org/wiki/JavaScript)
