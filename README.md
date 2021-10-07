@@ -1,8 +1,15 @@
 <img align="right" alt="GIF" src="https://github.com/rahimov27/rahimov27/blob/main/full-stack-development.gif" width="550" height="280" />
 
 
+
+
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rahimov27&show_icons=true&theme=merko" width="49.5%"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimov27&layout=compact&theme=tokyonight" width="45.5%" height="14%"/>
+
+
+
 
 
 
@@ -18,9 +25,15 @@
 
 
 
+
+
 Datebase :
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+
+
+
+
 
 # Achievement
 
