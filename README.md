@@ -23,5 +23,5 @@ Datebase :
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShairbekovBakyt&theme=city_lights)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShairbekovBakyt&theme=outrun)](https://github.com/ryo-ma/github-profile-trophy)
 
