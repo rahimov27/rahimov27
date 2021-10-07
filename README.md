@@ -1,3 +1,6 @@
+<img align="right" alt="GIF" src="https://github.com/rahimov27//Users/r27/Desktop/ezgif.com-optimize.gif" width="550" height="280" />
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rahimov27&show_icons=true&theme=merko" width="49.5%"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimov27&layout=compact&theme=tokyonight" width="45.5%" height="14%"/>
 
